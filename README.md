@@ -59,6 +59,12 @@ The visualization pipeline exposes the internal decision-making mechanics of the
 * **Metrics & Evaluation:** NLTK (`corpus_bleu`, `meteor_score`), `rouge-score`
 * **Environment:** Google Colab GPU runtime with Google Drive checkpoint integration
 
+---
+
+## Google Drive Resources & Dataset Artifacts
+The extracted VGG16 feature maps (`.npy`), model weights, and training checkpoints can be accessed via the project's Google Drive storage:
+* [Google Drive Project Folder](https://drive.google.com/drive/folders/1nTiCsNWdTLWZTdeN0H1VssbWVNd426VD?usp=sharing)
+
 ## How to Run
 1. Open the provided Jupyter Notebooks in Google Colab to utilize GPU acceleration.
 2. Mount your Google Drive to handle dataset downloads (MS-COCO 2014) and feature extraction backups (`.npy` files).

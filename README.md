@@ -1,6 +1,6 @@
 # Image Captioning with Encoder-Decoder Architectures on MS-COCO
 
-This repository contains a comprehensive deep-learning implementation of an **Image Captioning System** developed for the Statistical Natural Language Processing course[cite: 5]. The system generates natural language descriptions for visual inputs by combining Convolutional Neural Networks (CNNs) for feature extraction and Recurrent Neural Networks (RNNs) for sequence generation, enhanced progressively with Teacher Forcing and Global Attention mechanisms.
+This repository contains a comprehensive deep-learning implementation of an **Image Captioning System** developed for the Statistical Natural Language Processing course. The system generates natural language descriptions for visual inputs by combining Convolutional Neural Networks (CNNs) for feature extraction and Recurrent Neural Networks (RNNs) for sequence generation, enhanced progressively with Teacher Forcing and Global Attention mechanisms.
 
 ---
 
